@@ -1,0 +1,16 @@
+Package: foodDataCentralR
+Title: R Interface for the USDA's FoodData Central API
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Meera",
+           family = "Patel, MD",
+           role = c("aut", "cre"),
+           email = "patelmeeray@gmail.com",
+           comment = c(ORCID = "0000-0002-3401-3948"))
+Description: Search and retrieve data from the United States Department of 
+    Agriculture's FoodData Central Database (https://fdc.nal.usda.gov/api-guide.html).  
+License: Apache License 2.0
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
